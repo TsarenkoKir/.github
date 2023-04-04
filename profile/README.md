@@ -1,2 +1,1 @@
-**Join the community**
-[Discord]{discord.verida.io)
+**Join the community**: [Discord](discord.verida.io)
