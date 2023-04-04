@@ -1,1 +1,2 @@
-**Join the community**: [Discord](discord.verida.io)
+### Join the community:
+[Discord](https://discord.verida.io/)
